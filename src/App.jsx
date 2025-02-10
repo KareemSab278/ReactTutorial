@@ -1,15 +1,15 @@
-import './App.css'
+import './App.css';
 import Text from './components/Text';
-import MovieCard from './components/movieCard';
-
+import MovieCard from './components/MovieCard';
 
 function App() {
   return (
     <>
-      <h1><Text property={"Movies"}/></h1>
-      <MovieCard/>   {/* This is the MovieCard component */}   
+      <h1><Text property={"Movies"} /></h1>
+      
+      <MovieCard />
     </>
-  )
+  );
 }
 
 export default App;
