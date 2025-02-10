@@ -1,0 +1,102 @@
+[
+    {
+        "title": "The Dark Knight",
+        "rating": "9.0",
+        "genre": "Action",
+        "year": "2008",
+        "description": "When the Joker wreaks havoc on Gotham, Batman faces his biggest challenge yet.",
+        "director": "Christopher Nolan",
+        "stars": "Christian Bale, Heath Ledger, Aaron Eckhart",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg"
+    },
+    {
+        "title": "Inception",
+        "rating": "8.8",
+        "genre": "Science Fiction",
+        "year": "2010",
+        "description": "A thief enters dreams to steal secrets, only to discover a deeper challenge of implanting an idea.",
+        "director": "Christopher Nolan",
+        "stars": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "Interstellar",
+        "rating": "8.6",
+        "genre": "Science Fiction",
+        "year": "2014",
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "director": "Christopher Nolan",
+        "stars": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+        "imageUrl": "https://via.placeholder.com/300x180?text=Interstellar"
+    },
+    {
+        "title": "Pulp Fiction",
+        "rating": "8.9",
+        "genre": "Crime",
+        "year": "1994",
+        "description": "The lives of two mob hitmen, a boxer, and others intertwine in a series of tales.",
+        "director": "Quentin Tarantino",
+        "stars": "John Travolta, Uma Thurman, Samuel L. Jackson",
+        "imageUrl": "https://via.placeholder.com/300x180?text=Pulp+Fiction"
+    },
+    {
+        "title": "The Matrix",
+        "rating": "8.7",
+        "genre": "Science Fiction",
+        "year": "1999",
+        "description": "A computer hacker learns the true nature of his reality and his role in the war against its controllers.",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "stars": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+        "imageUrl": "https://via.placeholder.com/300x180?text=The+Matrix"
+    },
+    {
+        "title": "Fight Club",
+        "rating": "8.8",
+        "genre": "Drama",
+        "year": "1999",
+        "description": "An insomniac office worker and a soap salesman form an underground fight club that evolves into something much more.",
+        "director": "David Fincher",
+        "stars": "Brad Pitt, Edward Norton, Helena Bonham Carter",
+        "imageUrl": "https://via.placeholder.com/300x180?text=Fight+Club"
+    },
+    {
+        "title": "Forrest Gump",
+        "rating": "8.8",
+        "genre": "Drama",
+        "year": "1994",
+        "description": "The presidencies of Kennedy and Johnson, the Vietnam War, and more come to life through a split-second man’s journey.",
+        "director": "Robert Zemeckis",
+        "stars": "Tom Hanks, Robin Wright, Gary Sinise",
+        "imageUrl": "https://via.placeholder.com/300x180?text=Forrest+Gump"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "rating": "9.3",
+        "genre": "Drama",
+        "year": "1994",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "director": "Frank Darabont",
+        "stars": "Tim Robbins, Morgan Freeman, Bob Gunton",
+        "imageUrl": "https://via.placeholder.com/300x180?text=Shawshank+Redemption"
+    },
+    {
+        "title": "The Godfather",
+        "rating": "9.2",
+        "genre": "Crime",
+        "year": "1972",
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "director": "Francis Ford Coppola",
+        "stars": "Marlon Brando, Al Pacino, James Caan",
+        "imageUrl": "https://via.placeholder.com/300x180?text=The+Godfather"
+    },
+    {
+        "title": "Gladiator",
+        "rating": "8.5",
+        "genre": "Action",
+        "year": "2000",
+        "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "director": "Ridley Scott",
+        "stars": "Russell Crowe, Joaquin Phoenix, Connie Nielsen",
+        "imageUrl": "https://via.placeholder.com/300x180?text=Gladiator"
+    }
+]
