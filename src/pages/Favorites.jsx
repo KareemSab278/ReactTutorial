@@ -1,3 +1,4 @@
+
 const Favorites = () => {
     return(
         <>
@@ -11,4 +12,4 @@ const Favorites = () => {
 
 
 
-export default Favorites; // Exports the Favorite component to be used in other files.
+export default Favorites;
